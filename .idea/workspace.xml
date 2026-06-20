@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0f02c07b-f80b-4959-8217-cd6bab84c554" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/ExploreBtn.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/LightRays.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Navbar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/arrow-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/audience.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/calendar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/clock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/mode.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/icons/pin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/event-full.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/event1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/event2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/event3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/event4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/event5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/event6.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000077251801098" />
+      <entry key="S2" value="1.052720212658181" />
+      <entry key="S5" value="1.3081703673203666" />
+      <entry key="S10" value="1.555255723414302" />
+      <entry key="S30" value="1.984206911797628" />
+      <entry key="S60" value="3.4410802803621925" />
+      <entry key="M2" value="7.9080220258575755" />
+      <entry key="M5" value="18.667758820286785" />
+      <entry key="M10" value="28.789633038535268" />
+      <entry key="M15" value="36.44175538531498" />
+      <entry key="M30" value="53.842036232618206" />
+      <entry key="H1" value="77.72769015134759" />
+      <entry key="H2" value="106.6876304861744" />
+      <entry key="H4" value="132.76688272720062" />
+      <entry key="D1" value="165.6864939061644" />
+      <entry key="W1" value="172.77040400636346" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.694910441392062E-11" />
+      <entry key="MS500" value="0.007011797270837979" />
+      <entry key="S2" value="0.2893725542475306" />
+      <entry key="S5" value="0.6089518232235857" />
+      <entry key="S10" value="0.7803537288271762" />
+      <entry key="S30" value="0.9299993297425543" />
+      <entry key="S60" value="1.176347994055687" />
+      <entry key="M2" value="2.138606096775942" />
+      <entry key="M5" value="4.506259905508906" />
+      <entry key="M10" value="6.71940296939068" />
+      <entry key="M15" value="8.51154579654587" />
+      <entry key="M30" value="12.670177817511007" />
+      <entry key="H1" value="17.793846071934244" />
+      <entry key="H2" value="23.247589231013084" />
+      <entry key="H4" value="27.873267298694234" />
+      <entry key="D1" value="33.57184624121408" />
+      <entry key="W1" value="34.78892881290839" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="6.532849388604142E-4" />
+      <entry key="MS500" value="0.23106726976450334" />
+      <entry key="S2" value="0.8520960904010483" />
+      <entry key="S5" value="1.5249079454887924" />
+      <entry key="S10" value="2.0581309224794424" />
+      <entry key="S30" value="2.7892480483569195" />
+      <entry key="S60" value="4.525932105718409" />
+      <entry key="M2" value="9.948310961867152" />
+      <entry key="M5" value="23.07210686310777" />
+      <entry key="M10" value="35.427777215085314" />
+      <entry key="M15" value="44.88615009342578" />
+      <entry key="M30" value="66.46632636771331" />
+      <entry key="H1" value="95.49149174222255" />
+      <entry key="H2" value="129.9163226681732" />
+      <entry key="H4" value="160.6290305261558" />
+      <entry key="D1" value="199.2561420559466" />
+      <entry key="W1" value="207.55900828163658" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3FOepoH8CZLZ5kzNPSa5SIIKfqR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "javascript.preferred.runtime.type.id": "node",
+    "js.debugger.nextJs.config.created.client": "true",
+    "js.debugger.nextJs.config.created.server": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kronk.content.tree.expanded.paths": "",
+    "last_opened_file_path": "D:/web development learning/nextjs02",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.editor",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "D:\\web development learning\\nextjs02\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\web development learning\nextjs02" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\web development learning\nextjs02\app" />
+      <recent name="D:\web development learning\nextjs02" />
+      <recent name="D:\web development learning\nextjs02\" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.Next.js: server-side">
+    <configuration name="Next.js: debug client-side" type="JavascriptDebugType" uri="http://localhost:3000/">
+      <method v="2" />
+    </configuration>
+    <configuration name="Next.js: server-side" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-WS-261.25134.101" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f02c07b-f80b-4959-8217-cd6bab84c554" name="Changes" comment="" />
+      <created>1781950728826</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1781950728826</updated>
+      <workItem from="1781950729726" duration="630000" />
+      <workItem from="1781951420635" duration="7162000" />
+      <workItem from="1781964599054" duration="3775000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/components/LightRays.jsx" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
