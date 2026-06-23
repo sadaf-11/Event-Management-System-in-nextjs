@@ -7,8 +7,7 @@ import BookEvent from "@/components/BookEvent";
 import EventCard from "@/components/EventCard";
 import {cacheLife} from "next/cache";
 
-const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL ||
-  "http://localhost:3000";
+const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL;
 
 const EventDetailItem = ({ icon, alt, label }: { icon: string; alt: string; label: string; }) => (
     <div className="flex-row-gap-2 items-center">
@@ -127,16 +126,14 @@ const EventDetails = async ({ params }: { params: Promise<string> }) => {
                 </aside>
             </div>
 
-            {similarEvents.length > 0 && (
-              <div className="flex w-full flex-col gap-4 pt-20">
+            <div className="flex w-full flex-col gap-4 pt-20">
                 <h2>Similar Events</h2>
                 <div className="events">
-                  {similarEvents.map((similarEvent: IEvent) => (
-                    <EventCard key={similarEvent.title} {...similarEvent} />
-                  ))}
+                    {similarEvents.length > 0 && similarEvents.map((similarEvent: IEvent) => (
+                        <EventCard key={similarEvent.title} {...similarEvent} />
+                    ))}
                 </div>
-              </div>
-            )}
+            </div>
         </section>
     )
 }
